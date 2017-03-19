@@ -1,0 +1,7 @@
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Billiards.exercise\bin\Debug\Billiards.exe.config
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Billiards.exercise\bin\Debug\Billiards.exe
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Billiards.exercise\bin\Debug\Billiards.pdb
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Billiards.exercise\bin\Debug\TestingRoom.dll
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Billiards.exercise\obj\Debug\Billiards.csprojResolveAssemblyReference.cache
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Billiards.exercise\obj\Debug\Billiards.exe
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Billiards.exercise\obj\Debug\Billiards.pdb

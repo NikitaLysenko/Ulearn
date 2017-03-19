@@ -1,0 +1,5 @@
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\ХодФерзя\ХодФерзя\bin\Debug\ХодФерзя.exe.config
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\ХодФерзя\ХодФерзя\bin\Debug\ХодФерзя.exe
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\ХодФерзя\ХодФерзя\bin\Debug\ХодФерзя.pdb
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\ХодФерзя\ХодФерзя\obj\Debug\ХодФерзя.exe
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\ХодФерзя\ХодФерзя\obj\Debug\ХодФерзя.pdb

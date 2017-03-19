@@ -1,0 +1,7 @@
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Pluralize.exercise\bin\Debug\Pluralize.exe.config
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Pluralize.exercise\bin\Debug\rubles.txt
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Pluralize.exercise\bin\Debug\Pluralize.exe
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Pluralize.exercise\bin\Debug\Pluralize.pdb
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Pluralize.exercise\obj\Debug\Pluralize.csprojResolveAssemblyReference.cache
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Pluralize.exercise\obj\Debug\Pluralize.exe
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Pluralize.exercise\obj\Debug\Pluralize.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Protsienty\Protsienty\bin\Debug\Protsienty.exe.config
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Protsienty\Protsienty\bin\Debug\Protsienty.exe
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Protsienty\Protsienty\bin\Debug\Protsienty.pdb
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Protsienty\Protsienty\obj\Debug\Protsienty.csprojResolveAssemblyReference.cache
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Protsienty\Protsienty\obj\Debug\Protsienty.exe
+C:\Users\Nikita Lysenko\Desktop\SKB\Ulearn\Protsienty\Protsienty\obj\Debug\Protsienty.pdb
